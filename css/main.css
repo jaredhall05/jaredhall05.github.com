@@ -13,4 +13,6 @@ body {
 
 header {
     background-image: url('../img/dark_bg.png');
+    color: white;
+    overflow: hidden;
 }
