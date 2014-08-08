@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'Hello World'
 date: '2014-08-08 14:00:00 -0700'
 author: jaredhall05
