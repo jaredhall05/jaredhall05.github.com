@@ -15,8 +15,7 @@ body {
     /* Margin bottom by footer height */
     margin-bottom: 60px;
     padding: 0;
-    /*color: #c8c8c8;
-    background-color: #272b30;*/
+    padding-top: 50px;
 }
 
 header, footer {
