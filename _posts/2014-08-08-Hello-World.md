@@ -1,7 +1,7 @@
 ---
-layout: blog_post
+layout: default
 title: 'Hello World'
-date: 2014-08-08 14:00:00 -0700
+date: '2014-08-08 14:00:00 -0700'
 author: jaredhall05
 categories: 
 ---
