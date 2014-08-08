@@ -1,0 +1,6 @@
+Bootstrap Theme:
+    http://bootswatch.com/slate/
+
+Possible background patters:
+    http://subtlepatterns.com/escheresque-dark/
+    http://subtlepatterns.com/escheresque/
