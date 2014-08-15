@@ -26,6 +26,16 @@ article {
     margin-bottom: 10px;
 }
 
+a[href^="http://"]:after, 
+a[href^="https://"]:after {
+    font-family: FontAwesome;
+    font-weight: normal;
+    font-style: normal;
+    display: inline-block;
+    text-decoration: inherit;
+    content: '\e164';
+}
+
 .read-more {
     display: block;
 }
