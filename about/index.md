@@ -15,8 +15,8 @@ and a certificate in [Computer Gamming](http://gaming.asu.edu/).
 
 ## Projects
 
-<div class="panel panel-default" markdown="1">
-    <div class="panel-heading" markdown="1">Video-Machine</div>
+<div class="panel panel-default">
+    <div class="panel-heading">Video-Machine</div>
     <div class="panel-body" markdown="1">
 Java based midi video switcher.
 
@@ -34,8 +34,8 @@ GitHub Repositiory: [https://github.com/jaredhall05/Video-Machine](https://githu
     </div>
 </div>
 
-<div class="panel panel-default" markdown="1">
-    <div class="panel-heading" markdown="1">Tree Top Trouble</div>
+<div class="panel panel-default">
+    <div class="panel-heading">Tree Top Trouble</div>
     <div class="panel-body" markdown="1">
 This game was created for the [Gamma 4](http://www.kokoromi.org/gamma4/) one button game competition.
 Production on this game lasted for two months and I worked as the sole programmer on the project.
@@ -49,8 +49,8 @@ You can view the opening cinematic below.
     </div>
 </div>
 
-<div class="panel panel-default" markdown="1">
-    <div class="panel-heading" markdown="1">World Wide Words</div>
+<div class="panel panel-default">
+    <div class="panel-heading">World Wide Words</div>
     <div class="panel-body" markdown="1">
 This game was created for the [US Imagine Cup](http://www.imaginecup.us/) 2010 and [Imagine Cup](http://imaginecup.com/) 2010.
 We were able to advance into the semi-finals of both competitions with this game.
