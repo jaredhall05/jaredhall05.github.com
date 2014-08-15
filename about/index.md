@@ -39,6 +39,7 @@ and a certificate in [Computer Gamming](http://gaming.asu.edu/).
 <div class="panel panel-default">
     <div class="panel-heading">Tree Top Trouble</div>
     <div class="panel-body">
+        <img src="{{ site.baseurl }}/assets/TreeTopTrouble_Small.png" class="pull-right" style="margin-left: 10px" alt="Tree Top Trouble main menu screenshot" />
         This game was created for the <a href="http://www.kokoromi.org/gamma4/" target="_blank">Gamma 4</a> one button game competition.
         Production on this game lasted for two months and I worked as the sole programmer on the project.
         This game was built to run on Windows and the XBOX 360 using Microsoft’s XNA framework and using <a href="http://farseerphysics.codeplex.com/" target="_blank">Farseer</a> for the physics engine.
@@ -48,13 +49,13 @@ and a certificate in [Computer Gamming](http://gaming.asu.edu/).
         You can view the opening cinematic below.
         <br />
         <iframe width="560" height="315" src="//www.youtube.com/embed/wiI6wud_C_4" frameborder="0" allowfullscreen></iframe>
-        <img src="{{ site.baseurl }}/assets/TreeTopTrouble_Small.png" class="pull-right" alt="Tree Top Trouble main menu screenshot" />
     </div>
 </div>
 
 <div class="panel panel-default">
     <div class="panel-heading">World Wide Words</div>
     <div class="panel-body">
+        <img src="{{ site.baseurl }}/assets/WorldWideWords_Small.png" class="pull-right" style="margin-left: 10px" alt="World Wide Words main menu screenshot" />
         This game was created for the <a href="http://www.imaginecup.us/" target="_blank">US Imagine Cup</a> 2010 and <a href="http://imaginecup.com/" target="_blank">Imagine Cup</a> 2010.
         We were able to advance into the semi-finals of both competitions with this game.
         This is a competitive spelling game designed to help players around the world improve their spelling skills in a simple but competitive game.
@@ -63,6 +64,5 @@ and a certificate in [Computer Gamming](http://gaming.asu.edu/).
         Production on this game lasted for five months, and I worked as one of three programmers on a team of four.
         
         You can download the game here: <a href="{{ site.baseurl }}/assets/WorldWideWords.zip" target="_blank">WorldWideWords.zip</a> (94 MB)
-        <img src="{{ site.baseurl }}/assets/WorldWideWords_Small.png" class="pull-right" alt="World Wide Words main menu screenshot" />
     </div>
 </div>
