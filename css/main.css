@@ -22,9 +22,14 @@ header, footer {
     overflow: hidden;
 }
 
+.read-more {
+    display: block;
+}
+
 .footer {
     position: absolute;
     bottom: 0;
+    margin: 0;
     width: 100%;
     /* Set the fixed height of the footer here */
     height: 60px;
