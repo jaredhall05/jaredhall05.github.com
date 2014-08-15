@@ -13,7 +13,7 @@ html {
 body {
     margin: 0;
     /* Margin bottom by footer height */
-    margin-bottom: 105px;
+    margin-bottom: 125px;
     padding: 0;
     padding-top: 75px;
 }
@@ -40,8 +40,9 @@ header, footer {
     border-top: 1px solid #e7e7e7;
     bottom: 0;
     margin: 0;
+    padding: 10px 0;
     position: absolute;
     width: 100%;
     /* Set the fixed height of the footer here */
-    height: 105px;
+    height: 125px;
 }
