@@ -26,6 +26,10 @@ header, footer {
     display: block;
 }
 
+.social-links {
+    text-align: center;
+}
+
 .footer {
     position: absolute;
     bottom: 0;
