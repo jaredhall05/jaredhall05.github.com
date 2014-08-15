@@ -46,6 +46,7 @@ and a certificate in [Computer Gamming](http://gaming.asu.edu/).
         You can download the game here: <a href="{{ site.baseurl }}/assets/TreeTopTrouble.zip" target="_blank">TreeTopTrouble.zip</a> (16 MB)
         
         You can view the opening cinematic below.
+        <br />
         <iframe width="560" height="315" src="//www.youtube.com/embed/wiI6wud_C_4" frameborder="0" allowfullscreen></iframe>
         <img src="{{ site.baseurl }}/assets/TreeTopTrouble_Small.png" class="pull-right" alt="Tree Top Trouble main menu screenshot" />
     </div>
@@ -62,6 +63,6 @@ and a certificate in [Computer Gamming](http://gaming.asu.edu/).
         Production on this game lasted for five months, and I worked as one of three programmers on a team of four.
         
         You can download the game here: <a href="{{ site.baseurl }}/assets/WorldWideWords.zip" target="_blank">WorldWideWords.zip</a> (94 MB)
-        <img src="{{ site.baseurl }}/assets/WorldWideWords_Small.png" alt="World Wide Words main menu screenshot" />
+        <img src="{{ site.baseurl }}/assets/WorldWideWords_Small.png" class="pull-right" alt="World Wide Words main menu screenshot" />
     </div>
 </div>
