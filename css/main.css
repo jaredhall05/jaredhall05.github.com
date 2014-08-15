@@ -22,6 +22,10 @@ header, footer {
     overflow: hidden;
 }
 
+article {
+    margin-bottom: 10px;
+}
+
 .read-more {
     display: block;
 }
