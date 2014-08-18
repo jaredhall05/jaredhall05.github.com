@@ -48,10 +48,10 @@ and a certificate in [Computer Gamming](http://gaming.asu.edu/).
             
             <p>You can view the opening cinematic below.</p>
             <br />
-            <iframe width="560" height="315" src="//www.youtube.com/embed/wiI6wud_C_4" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" class="img-responsive" src="//www.youtube.com/embed/wiI6wud_C_4" frameborder="0" allowfullscreen></iframe>
         </div>
         <div class="col-md-4">
-            <img src="{{ site.baseurl }}/assets/TreeTopTrouble_Small.png" alt="Tree Top Trouble main menu screenshot" />
+            <img src="{{ site.baseurl }}/assets/TreeTopTrouble_Small.png" class="img-responsive pull-right" alt="Tree Top Trouble main menu screenshot" />
         </div>
     </div>
 </div>
@@ -70,7 +70,7 @@ and a certificate in [Computer Gamming](http://gaming.asu.edu/).
             <p>You can download the game here: <a href="{{ site.baseurl }}/assets/WorldWideWords.zip" target="_blank">WorldWideWords.zip</a> (94 MB)</p>
         </div>
         <div class="col-md-4">
-            <img src="{{ site.baseurl }}/assets/WorldWideWords_Small.png" alt="World Wide Words main menu screenshot" />
+            <img src="{{ site.baseurl }}/assets/WorldWideWords_Small.png" class="img-responsive pull-right" alt="World Wide Words main menu screenshot" />
         </div>
     </div>
 </div>
