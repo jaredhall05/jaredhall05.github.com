@@ -46,9 +46,7 @@ and a certificate in [Computer Gamming](http://gaming.asu.edu/).
             
             <p>You can download the game here: <a href="{{ site.baseurl }}/assets/TreeTopTrouble.zip" target="_blank">TreeTopTrouble.zip</a> (16 MB)</p>
             
-            <p>You can view the opening cinematic below.</p>
-            <br />
-            <iframe width="560" height="315" class="img-responsive" src="//www.youtube.com/embed/wiI6wud_C_4" frameborder="0" allowfullscreen></iframe>
+            <p>You can view the opening cinematic on YouTube: <a href="https://www.youtube.com/watch?v=wiI6wud_C_4" target="_blank">https://www.youtube.com/watch?v=wiI6wud_C_4</a></p>
         </div>
         <div class="col-md-4">
             <img src="{{ site.baseurl }}/assets/TreeTopTrouble_Small.png" class="img-responsive pull-right" alt="Tree Top Trouble main menu screenshot" />
