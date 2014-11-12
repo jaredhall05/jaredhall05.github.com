@@ -1,12 +1,58 @@
-{% include top.html %}
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <title>{{ page.title }} | {{ site.name }}</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <meta name="generator" content="Jekyll v{{ jekyll.version }}">
+        
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" type="text/css" media="all">
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/bootswatch-readability.min.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" type="text/css" media="all" />
+    </head>
 
-<body>
-    {% include header.html %}
-
-    <div class="container">
-        {{ content }}
-    </div>
+    <body>
+        <header class="navbar navbar-default navbar-fixed-top">
+            <nav class="container" role="navigation">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.name }} <span class="small">{{ site.description }}</span></a>
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="{{ site.baseurl }}/about">About Me</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
     
-    {% include footer.html %}
-    {% include analytics.html %}
-</body>
+        <div class="container">
+            {{ content }}
+        </div>
+        
+        <footer class="footer">
+            <div class="container">
+                <div class="col-md-12">
+                    <div class="social-links">
+                        {% include svg-icons.html %}
+                    </div>
+                    <p class="hosting-provider">
+                        Proudly hosted by<br />
+                        <a href="https://github.com">
+                            <img src="/img/GitHub_Logo.png" width="100" height="30" alt="GitHub • Social coding">
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </footer>
+        
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+        {% include analytics.html %}
+    </body>
+</html>
