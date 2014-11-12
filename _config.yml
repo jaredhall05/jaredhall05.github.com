@@ -2,6 +2,10 @@
 # This file contains configuration flags to customize your site
 #
 
+# Jekyll/Github Pages Plugins
+gems:
+  - jekyll-sitemap
+
 # Name of your site (displayed in the header)
 name: Jared Hall
 
