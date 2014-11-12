@@ -37,5 +37,6 @@ Finally, you can choose to give the rule a name and description.<br />
 After that I was able to connect from the secondary machine.
 
 Tools I used:
+
 - Windows 7 Firewall
 - [VirtualBox 4.3.12](https://www.virtualbox.org/)
