@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The podcasts I'm subscribed to'
+title: 'The podcasts I&rsquo;m subscribed to'
 date: '2014-12-31 19:00:00 -0700'
 author: jaredhall05
 categories: Podcasts
