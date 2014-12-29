@@ -124,3 +124,25 @@ So, I guess a lot has changed.
 ###<a href="http://www.wehaveconcerns.com/" target="_blank">We Have Concerns</a>###
 A short podcast about all the wonder and dread hidden inside seemingly innocuous things.
 <a href="http://www.wehaveconcerns.com/category/newlistener" target="_blank">The best episodes for new listeners</a>
+
+##Upcoming##
+
+Shows that haven&rsquo;t launched yet, or shows that I plan to start listening to in 2015.
+
+###<a href="http://www.tekthing.com/" target="_blank">TekThing</a>### --Coming Soon--
+TekThing is the weekly video show where Patrick Norton and Shannon Morse share their technology obsession with you. Got a question about technology? Ask us!
+
+###<a href="http://www.tobiahmarks.com/beindienow/" target="_blank">Be Indie Now</a>###
+&ldquo;Be Indie Now&rdquo; is a podcast about independent game development.
+
+Join Tobiah as your host and moderator as each episode he talks to guests about game development. From the design, to the technical, to the business and marketing, we&rsquo;ll cover every aspect of the development process.
+
+Now is the best time in history to start an independent game company. From hobbyists experimenting on the side, to full-time entrepreneurs looking to make it big. The goal of this podcast to encourage everybody to become a game developer themselves.
+
+###<a href="http://devchat.tv/js-jabber" target="_blank">http://devchat.tv/js-jabber</a>###
+Weekly podcast discussion about Javascript on the front and back ends.
+Also discuss programming practices, coding environments, and the communities related to the technology.
+
+###<a href="http://msdevshow.com/" target="_blank">http://msdevshow.com/</a>###
+THE podcast for Microsoft developers.
+Jason and Carl talk about the latest in developer news covering topics such as the cloud and cross-platform development using the Microsoft platform.
