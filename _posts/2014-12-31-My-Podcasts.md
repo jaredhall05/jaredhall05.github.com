@@ -129,7 +129,8 @@ A short podcast about all the wonder and dread hidden inside seemingly innocuous
 
 Shows that haven&rsquo;t launched yet, or shows that I plan to start listening to in 2015.
 
-###<a href="http://www.tekthing.com/" target="_blank">TekThing</a>### --Coming Soon--
+###<a href="http://www.tekthing.com/" target="_blank">TekThing</a>###
+--Coming Soon--
 TekThing is the weekly video show where Patrick Norton and Shannon Morse share their technology obsession with you. Got a question about technology? Ask us!
 
 ###<a href="http://www.tobiahmarks.com/beindienow/" target="_blank">Be Indie Now</a>###
