@@ -32,6 +32,7 @@ Jupiter Broadcasting&rsquo;s 4 day a week tech news show.
 ###<a href="http://twit.tv/show/this-week-in-tech" target="_blank">This Week in Tech</a>###
 Your first podcast of the week is the last word in tech.
 Join the top tech pundits in a roundtable discussion of the latest trends in high tech.
+<a href="http://twit.tv/show/this-week-in-tech/490" target="_blank">The Best of 2014</a>
 
 ###<a href="http://twit.tv/show/this-week-in-enterprise-tech" target="_blank">This Week in Enterprise Tech</a>###
 This Week in Enterprise Tech explores the complex, cutting edge world of enterprise technology.
