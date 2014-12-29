@@ -16,7 +16,7 @@ Daily Tech News Show is the home of Tom Merritt&rsquo;s daily tech news show.
 Hence the name. Each show delivers the essential headlines in tech news that day combined with analysis from top names in technology.
 <a href="http://www.dailytechnewsshow.com/about/" target="_blank">Read More</a>
 <br />
-<a href="http://www.dailytechnewsshow.com/dtns-2392-holiday-all-stars/" target="_blank">Holiday 2014 All Stars</a>
+<a href="http://www.dailytechnewsshow.com/dtns-2395-best-dtns-moments-of-2014/" target="_blank">Best DTNS Moments of 2014</a>
 
 ###<a href="http://twit.tv/show/tech-news-today" target="_blank">Tech News Today</a>###
 Tech News Today explores the most important stories of the day in conversation with the world&rsquo;s leading journalists live each weekday at 10:00am Pacific, 1:00pm Eastern.
