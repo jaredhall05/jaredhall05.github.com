@@ -12,7 +12,7 @@ I started by opening the settings for my virtual machine and navigating to Displ
 <img class="img-responsive" alt="VirtualBox Machine Display Settings for Remote Display"
      src="{{ site.baseurl }}/assets/2014-11-11/VirtualBoxSettingsScreenshot-small-min.jpg"
      srcset="{{ site.baseurl }}/assets/2014-11-11/VirtualBoxSettingsScreenshot-small-min.jpg 260w,
-             {{ site.baseurl }}/assets/2014-11-11/VirtualBoxSettingsScreenshot-min.jpg 728w"
+             {{ site.baseurl }}/assets/2014-11-11/VirtualBoxSettingsScreenshot-min.jpg 657w"
      sizes="(min-width:768px) 657px,
             calc(100vw - 30px)" />
 
@@ -21,7 +21,7 @@ My first thought was to enable the Remote Desktop rules already present within t
 <img class="img-responsive" alt="Windows 7 Firewall incoming rules for Remote Desktop"
      src="{{ site.baseurl }}/assets/2014-11-11/RemoteDesktopScreenshot-small-min.jpg"
      srcset="{{ site.baseurl }}/assets/2014-11-11/RemoteDesktopScreenshot-small-min.jpg 260w,
-             {{ site.baseurl }}/assets/2014-11-11/RemoteDesktopScreenshot-min.jpg 728w"
+             {{ site.baseurl }}/assets/2014-11-11/RemoteDesktopScreenshot-min.jpg 937w"
      sizes="(min-width:768px) 937px,
             calc(100vw - 30px)" />
 
@@ -30,7 +30,7 @@ To resolve the issue I had to allow VirtualBox to accept incomming connections.<
 <img class="img-responsive" alt="Windows 7 Firewall incoming rules for VirtualBox"
      src="{{ site.baseurl }}/assets/2014-11-11/VirtualBoxScreenshot-small-min.jpg"
      srcset="{{ site.baseurl }}/assets/2014-11-11/VirtualBoxScreenshot-small-min.jpg 260w,
-             {{ site.baseurl }}/assets/2014-11-11/VirtualBoxScreenshot-min.jpg 728w"
+             {{ site.baseurl }}/assets/2014-11-11/VirtualBoxScreenshot-min.jpg 937w"
      sizes="(min-width:768px) 937px,
             calc(100vw - 30px)" />
 
