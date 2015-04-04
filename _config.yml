@@ -31,7 +31,8 @@ footer-links:
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: jdhdev
-  stackoverflow: users/710654/hj05# your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/710654/hj05
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
