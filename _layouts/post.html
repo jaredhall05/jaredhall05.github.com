@@ -23,6 +23,6 @@ layout: default
     "headline": "{{ page.title }}",
     "datePublished": "{{ page.date }}",
     "description": "{{ content | truncatewords:20 }}",
-    "url": "{{ page.url }}"
+    "url": "{{ site.url }}{{ page.url }}"
   }
 </script>
