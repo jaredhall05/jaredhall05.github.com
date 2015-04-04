@@ -16,3 +16,23 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "{% site.name %}"
+        "url" : "{% site.baseurl %}",
+        "sameAs": [
+            {% if site.footer-links.dribbble %}"http://dribbble.com/{{ site.footer-links.dribbble }}",{% endif %}
+            {% if site.footer-links.facebook %}"http://facebook.com/{{ site.footer-links.facebook }}",{% endif %}
+            {% if site.footer-links.flickr %}"http://flickr.com/{{ site.footer-links.flickr }}",{% endif %}
+            {% if site.footer-links.github %}"http://github.com/{{ site.footer-links.github }}",{% endif %}
+            {% if site.footer-links.instagram %}"http://instagram.com/{{ site.footer-links.instagram }}",{% endif %}
+            {% if site.footer-links.linkedin %}"http://linkedin.com/in/{{ site.footer-links.linkedin }}",{% endif %}
+            {% if site.footer-links.pinterest %}"http://pinterest.com/{{ site.footer-links.pinterest }}",{% endif %}
+            {% if site.footer-links.twitter %}"http://twitter.com/{{ site.footer-links.twitter }}",{% endif %}
+            {% if site.footer-links.stackoverflow %}"http://stackoverflow.com/{{ site.footer-links.stackoverflow }}"{% endif %}
+        ]
+    }
+</script>

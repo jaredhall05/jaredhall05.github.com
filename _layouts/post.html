@@ -15,3 +15,14 @@ layout: default
     Written on <time datetime="{{ page.date }}">{{ page.date | date: "%B %e, %Y" }}</time>
   </div>
 </article>
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "{{ page.title }}",
+    "datePublished": "{{ page.date }}",
+    "description": "{{ content | truncatewords:20 }}",
+    "url": "{{ page.url }}"
+  }
+</script>
