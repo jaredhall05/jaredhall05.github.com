@@ -4,8 +4,9 @@ title: Home
 overview: true
 ---
 
-<section class="col-md-10 col-md-offset-1">
+<div class="posts">
+    <h3 class="content-subhead">Recent Posts</h3>
     {% for post in site.posts %}
         {% include post_item.html %}
     {% endfor %}
-</section>
+</div>

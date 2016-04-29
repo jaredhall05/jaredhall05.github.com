@@ -3,8 +3,8 @@
 #
 
 # Jekyll/Github Pages Plugins
-gems:
-  - jekyll-sitemap
+#gems:
+#  - jekyll-sitemap
 
 # Name of your site (displayed in the header)
 name: Jared Hall
@@ -58,3 +58,14 @@ timezone: America/Phoenix
 #
 
 highlighter: pygments
+
+excerpt_separator: <!--more-->
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: jaredhall05
+      layout: post

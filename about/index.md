@@ -13,11 +13,13 @@ I went to [Arizona State University](http://www.asu.edu) for a bachelor's in
 [Computer Information Systems](http://wpcarey.asu.edu/undergraduate-degrees/computer-information-systems),
 and a certificate in [Computer Gamming](http://gaming.asu.edu/).
 
-## Projects
+### Projects
 
-<div class="panel panel-default">
-    <div class="panel-heading">Video-Machine</div>
-    <div class="panel-body">
+<div class="post">
+    <header class="post-header">
+        <h4 class="post-heading">Video-Machine</h4>
+    </header>
+    <div class="post-description">
         Java based midi video switcher.
         
         <a href="http://www.videolan.org/" target="_blank">VLC Media Player</a> is required to use this application.
@@ -31,15 +33,16 @@ and a certificate in [Computer Gamming](http://gaming.asu.edu/).
             <li><a href="http://iharder.sourceforge.net/current/java/filedrop/" target="_blank">FileDrop</a></li>
             <li><a href="http://kenai.com/projects/betterbeansbinding/pages/Home" target="_blank">BetterBeansBinding</a></li>
         </ul>
-
         GitHub Repositiory: <a href="https://github.com/jaredhall05/Video-Machine" target="_blank">https://github.com/jaredhall05/Video-Machine</a>
     </div>
 </div>
 
-<div class="panel panel-default">
-    <div class="panel-heading">Tree Top Trouble</div>
-    <div class="panel-body">
-        <div class="col-md-8">
+<div class="post">
+    <header class="post-header">
+        <h4 class="post-heading">Tree Top Trouble</h4>
+    </header>
+    <div class="post-description">
+        <div>
             <p>This game was created for the <a href="http://www.kokoromi.org/gamma4/" target="_blank">Gamma 4</a> one button game competition.
             Production on this game lasted for two months and I worked as the sole programmer on the project.
             This game was built to run on Windows and the XBOX 360 using Microsoft’s XNA framework and using <a href="http://farseerphysics.codeplex.com/" target="_blank">Farseer</a> for the physics engine.</p>
@@ -48,16 +51,18 @@ and a certificate in [Computer Gamming](http://gaming.asu.edu/).
             
             <p>You can view the opening cinematic on YouTube: <a href="https://www.youtube.com/watch?v=wiI6wud_C_4" target="_blank">https://www.youtube.com/watch?v=wiI6wud_C_4</a></p>
         </div>
-        <div class="col-md-4">
+        <div>
             <img src="{{ site.baseurl }}/assets/TreeTopTrouble_Small.png" class="img-responsive pull-right" alt="Tree Top Trouble main menu screenshot" />
         </div>
     </div>
 </div>
 
-<div class="panel panel-default">
-    <div class="panel-heading">World Wide Words</div>
-    <div class="panel-body">
-        <div class="col-md-8">
+<div class="post">
+    <header class="post-header">
+        <h4 class="post-heading">World Wide Words</h4>
+    </header>
+    <div class="post-description">
+        <div>
             <p>This game was created for the <a href="http://www.imaginecup.us/" target="_blank">US Imagine Cup</a> 2010 and <a href="http://imaginecup.com/" target="_blank">Imagine Cup</a> 2010.
             We were able to advance into the semi-finals of both competitions with this game.
             This is a competitive spelling game designed to help players around the world improve their spelling skills in a simple but competitive game.
@@ -67,7 +72,7 @@ and a certificate in [Computer Gamming](http://gaming.asu.edu/).
             
             <p>You can download the game here: <a href="{{ site.baseurl }}/assets/WorldWideWords.zip" target="_blank">WorldWideWords.zip</a> (94 MB)</p>
         </div>
-        <div class="col-md-4">
+        <div>
             <img src="{{ site.baseurl }}/assets/WorldWideWords_Small.png" class="img-responsive pull-right" alt="World Wide Words main menu screenshot" />
         </div>
     </div>

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'The podcasts I&rsquo;m subscribed to'
 date: '2014-12-31 19:00:00 -0700'
-author: jaredhall05
 categories: Podcasts
 ---
 
@@ -14,6 +12,7 @@ I&rsquo;ll break them down into categories and provide the podcast&rsquo;s descr
 ###<a href="http://www.dailytechnewsshow.com/" target="_blank">Daily Tech News Show</a>###
 Daily Tech News Show is the home of Tom Merritt&rsquo;s daily tech news show. 
 Hence the name. Each show delivers the essential headlines in tech news that day combined with analysis from top names in technology.
+<!--more-->
 <a href="http://www.dailytechnewsshow.com/about/" target="_blank">Read More</a>
 <br />
 <a href="http://www.dailytechnewsshow.com/dtns-2395-best-dtns-moments-of-2014/" target="_blank">Best DTNS Moments of 2014</a>
@@ -140,10 +139,10 @@ Join Tobiah as your host and moderator as each episode he talks to guests about 
 
 Now is the best time in history to start an independent game company. From hobbyists experimenting on the side, to full-time entrepreneurs looking to make it big. The goal of this podcast to encourage everybody to become a game developer themselves.
 
-###<a href="http://devchat.tv/js-jabber" target="_blank">http://devchat.tv/js-jabber</a>###
+###<a href="http://devchat.tv/js-jabber" target="_blank">JavaScript Jabber</a>###
 Weekly podcast discussion about Javascript on the front and back ends.
 Also discuss programming practices, coding environments, and the communities related to the technology.
 
-###<a href="http://msdevshow.com/" target="_blank">http://msdevshow.com/</a>###
+###<a href="http://msdevshow.com/" target="_blank">MS Dev Show</a>###
 THE podcast for Microsoft developers.
 Jason and Carl talk about the latest in developer news covering topics such as the cloud and cross-platform development using the Microsoft platform.
